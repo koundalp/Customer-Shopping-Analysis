@@ -3,6 +3,25 @@
 **Overview:**
 This project analyzes customer shopping trends to uncover insights into spending patterns, product categories, customer loyalty, payment preferences, and seasonal behavior.
 
+## Project Workflow
+1. Data Cleaning in Excel
+2. Data Validation and Standardization
+3. SQL Analysis for KPIs and Business Questions
+4. Exploratory Data Analysis using Python
+5. Dashboard Creation in Power BI
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Validation
+- Data Transformation
+- SQL Aggregations
+- CTEs and Subqueries
+- KPI Reporting
+- Trend Analysis
+- Customer Segmentation
+- Data Visualization
+- Dashboard Design
+
 **Tools Used:**
 
 **1. Excel:**
@@ -70,4 +89,8 @@ This project analyzes customer shopping trends to uncover insights into spending
 * No Discounted purchases had higher average order values
 * Customers aged 45+ were the highest spenders
 * Loyal and Regular customers spend nearly equal.
+
+## Author
+Poonam Koundal
+Transitioning to Data Analyst
 
