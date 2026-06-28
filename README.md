@@ -1,18 +1,9 @@
 **# Customer Shopping Behavior Analysis**
 
-
-
 **Overview:**
-
-
-
 This project analyzes customer shopping trends to uncover insights into spending patterns, product categories, customer loyalty, payment preferences, and seasonal behavior.
 
-
-
-Tools Used:
-
-
+**Tools Used:**
 
 **1. Excel:**
 
@@ -20,8 +11,6 @@ Tools Used:
 * Formulas
 * Pivot tables
 * Business summarization
-
-
 
 **2. SQL:**
 
@@ -31,8 +20,6 @@ Tools Used:
 * Ranking
 * KPI extraction
 
-
-
 **3. Python:**
 
 * EDA
@@ -40,40 +27,41 @@ Tools Used:
 * Binning
 * Visualization
 
-
-
 **3. Power BI**
 
-* KPI Cards
-
-&#x20;      Total Revenue
-
-&#x20;      Total Customers 
-
-&#x20;      Average Purchase
-
-&#x20;      Average Rating
-
+* KPI Cards - Total Revenue, Total Customers, Average Purchase, Average Rating
 * Charts
 * Slicers
 
+  ## Dashboard Preview
 
+### KPI Cards
+![KPI Cards](screenshots/cards.png)
+
+### Revenue by Category
+![Revenue by Category](screenshots/rev_ctg.png)
+
+### Age Group Spending
+![Age Group Spending](screenshots/age_grp.png)
+
+### Payment Method Analysis
+![Payment Method Analysis](screenshots/payment_method.png)
+
+### Seasonal Sales
+![Seasonal Sales](screenshots/season.png)
+
+### Subscription Status
+![Subscription Status](screenshots/subscription_status.png)
 
 **Questions**
 
-
-
-* \- Which category generates the most revenue?
-* \- Which age group spends the most?
-* \- Which season has the highest sales?
-* \- What payment method is most used?
-* \- Do loyal customers spend more?
-
-
+* Which category generates the most revenue?
+* Which age group spends the most?
+* Which season has the highest sales?
+* What payment method is most used?
+* Do loyal customers spend more?
 
 **Final Insights**
-
-
 
 * Clothing generated highest revenue
 * Fall showed strongest purchasing activity
